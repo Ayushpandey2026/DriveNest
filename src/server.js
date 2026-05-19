@@ -8,7 +8,6 @@ const cors      = require('cors');
 
 const PORT = process.env.PORT || 5000;
 
-// ── Unhandled rejection / exception guards ────────────────────────────────
 
 process.on('uncaughtException', (err) => {
   console.error('[UNCAUGHT EXCEPTION] Shutting down…');
