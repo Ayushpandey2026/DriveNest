@@ -31,6 +31,30 @@
 
 ---
 
+<pre>
+DriveNest/
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   ├── services/
+│   │   └── App.jsx
+│
+├── backend/
+│   ├── src/
+│   │   ├── config/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── utils/
+│   │   └── server.js
+│
+└── README.md
+</pre>
+
 ## 📂 Installation Guide
 
 ### Clone Repository
